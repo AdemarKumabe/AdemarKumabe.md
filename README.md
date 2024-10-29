@@ -35,4 +35,4 @@ I have a degree in systems analysis and development from Cruzeiro do Sul Univers
 </div>
 
 > # GitHub Stats
-[![Repo Ademar Kumabe](https://github-readme-stats.vercel.app/api/pin/?username=ademarkumabe&repo=ademarkumabe&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ademarkumabe)
