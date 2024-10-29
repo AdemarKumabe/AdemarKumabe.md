@@ -29,7 +29,7 @@ https://ademarkumabe.github.io/SilasBarberShop/
 <a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-[![Repo Ademar Kumabe](https://github-readme-stats.vercel.app/api/pin/?username=ademarkumabe&repo=meu-repo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ademarkumabe/meu-repo)
+[![Repo Ademar Kumabe](https://github-readme-stats.vercel.app/api/pin/?username=ademarkumabe&repo=meu-repo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ademarkumabe)
 
 
 
